@@ -1,6 +1,6 @@
-<h1>I'm The Felipe </h1> 
+<h1>Olá Me Chamo Felipe <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h1> 
 
-
+<p>Olá Me Chamo Felipe e Tenho 21 Anos, Sou Desenvolvedor Back-End, tenho foco em desenvolvimento com javascript, typescript e nodeJs dentre outras, e estou sempre em busca de aprender coisas novas e me especializar no que já sei, críticas são sempre bem vindas e sempre disposto a resolver novos desafios do dia a dia !<p/>
 
 
 - <h2>Technologies & Tools I Use</h2>
